@@ -1,6 +1,3 @@
-I just dumped a bunch of content from the forum on here, now time to organize
-
-Here is a starting point for an outline: -biophil
 
 Invictus
 --------
@@ -10,13 +7,13 @@ Invictus
 4. **I have mad coding skills, who can I talk to about a job?**
 
 
-DAC Questions
---------------
-1. **What is a DAC?** DAC stands for Distributed Autonomous Corporation. It is a software entity that, like a traditional corporation, money for its shareholders. Unlike a traditional corporation, it is autonomous: once created, it requires no board of directors or CEO to accomplish its goals.
+DAC
+---
+1. **What is a DAC?** DAC stands for Distributed Autonomous Company. It is a software entity that, like a traditional company, aims to earn money for its shareholders. Unlike a traditional company, it is autonomous: once created, it requires no board of directors or CEO to accomplish its goals.
 2. **Why Decentralized?**
 3. **Why Autonomous?** Autonomy is necessary to ensure that despite having no board of directors, the DAC functions properly on its own. Bitcoin is autonomous in this way: the Bitcoin Foundation could disappear tomorrow, but Bitcoin software would go on validating transactions as if nothing had changed.
-4. **Why Corporation?** This is the key factor that distinguishes DACs from earlier cryptographic enterprises like Bitcoin. Bitcoin is Decentralized and Autonomous, but since it does not generate income for its shareholders, it is not a DAC. 
-5. **How is a DAC different from a traditional corporation?**
+4. **Why Company?** This is the key factor that distinguishes DACs from earlier cryptographic enterprises like Bitcoin. Bitcoin is Decentralized and Autonomous, but since it does not generate income for its shareholders, it is not a DAC. 
+5. **How is a DAC different from a traditional company?**
 6. **What can be done with a DAC?** This is the 100-billion-dollar question! The whole project of Invictus is to find the answer. At the moment, it is theorized that music distribution, publishing, gambling, DNS, voting, and personal identity verification can all be accomplished with DACs.
 
 
@@ -62,72 +59,6 @@ Future DAC Plans
 1. **What future DACs is Invictus planning?**
 2. **How can I get a stake in future DACs?** You can buy PTS or donate to AGS!
 3. **I have a great idea for a DAC. Who do I talk to?**
-
-
-
-
-
-What is a DAC?
-==============
-
-
-
-BitShares PTS ("ProtoShares")?
-=======================================
-
-
-Owning BitShares PTS is a way to acquire shares in future DACs and speculate on their value today!
-
-What is BitShares PTS?
-BitShares PTS is a class of crypto-currency that let you capture a position in future DACs before they are ever implemented. The speculative value of PTS is a subjective mix of three market 
-perception pillars. These pillars are the market’s assessment of:
-
-* The speculative value of a future DAC share.
-* The probability that the DAC can and will be successfully fielded.
-* Confidence that the PTS will map to an equitable share in the implementation.
-
-... summed across all DACs that announce there intention to honor PTS holders with shares when launched.
-
-Developers use BitShares PTS to capture early adopter interest in their new idea. 
-
-Investors use PTS to get in on the ground floor of an entire new industry.  Instead of enduring the hassles and costs of mining every new DAC into existence, they focus on acquiring PTS once and for all, and thereby claim a stake in every new DAC that honors BitShares PTS.
-
-Developers and Investors start on a level playing field for obtaining BitShares PTS. They are being slowly mined and easily accessible from public exchanges as one of the top crypto-currencies on the market.
-
-What about that Third Pillar?
-
-The third Public Perception Pillar is confidence that owning a DAC’s PTS will translate into 
-actual ownership of an equitable share in the objective DAC. It is up to the DAC developer to convince 
-the market that this will happen using whatever social consensus the market will accept. The PTS Social Consensus is simply:
-
-> At our DAC’s pre-published launch time, a DAC’s genesis block shall be initialized
-> to precisely match the current unspent outputs of the corresponding BitShares PTS blockchain.
-
-> For every BitShares PTS proto-share you hold at that launch time, you now have a corresponding 
-> share in the DAC accessible via the same public address to which you hold a private key. 
-
-That’s it. Simple. Easy to understand. Real hard to renege.
-
-You can read about the latest, more general form here:  http://invictus-innovations.com/social-consensus/
-
-What do you mean “real hard to renege” on your social consensus? 
-
-Who would want to abandon the entire universe of informed early adopters by reneging on their rights as 
-founding shareholders? In this business, the network effect of market share is everything. Besides, if 
-someone deploys an open-source DAC without honoring the social contract to its PTS holders,
-someone else will simply fork the open source code, and honor that contract. Bingo, they’re in business! 
-The network effect of informed early adopters will do the rest and the reneging developer’s implementation 
-will go into the dustbin of history.
-
-BitShares PTS were designed to be mined into existence according to the curves below.  This has been considerably accelerated in practice by the overwhelming amount of interest from the mining community.
-
-
-
-![PTS Mine Rate](http://the-iland.net/static/images/ProtoSharesMoneySupply.png)
-
-
-More info about BitShares PTS can be found in the PTS FAQ. TODO link PTS.md
-
 
 
 

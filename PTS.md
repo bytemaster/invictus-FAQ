@@ -1,3 +1,7 @@
+**This is a more detailed, technical FAQ. To read a high-level summary, see the main FAQ (link?)**
+
+NOT READY FOR PUBLISHING
+
 
 Why must I withdraw my PTS to a PTS wallet?
 
@@ -67,5 +71,64 @@ Invictus is developing a user friendly software where you would simply download 
 After collecting my BTS what do I do with my PTS?
 
 I would advise you keep them! PTS has value because it functions as a social contract. May more DACs may come and honour the social contract, thus you are earning a stake in a new industry of DACs.
+
+
+
+
+
+
+BitShares PTS ("ProtoShares")?
+=======================================
+
+
+Owning BitShares PTS is a way to acquire shares in future DACs and speculate on their value today!
+
+What is BitShares PTS?
+BitShares PTS is a class of crypto-currency that let you capture a position in future DACs before they are ever implemented. The speculative value of PTS is a subjective mix of three market 
+perception pillars. These pillars are the market’s assessment of:
+
+* The speculative value of a future DAC share.
+* The probability that the DAC can and will be successfully fielded.
+* Confidence that the PTS will map to an equitable share in the implementation.
+
+... summed across all DACs that announce there intention to honor PTS holders with shares when launched.
+
+Developers use BitShares PTS to capture early adopter interest in their new idea. 
+
+Investors use PTS to get in on the ground floor of an entire new industry.  Instead of enduring the hassles and costs of mining every new DAC into existence, they focus on acquiring PTS once and for all, and thereby claim a stake in every new DAC that honors BitShares PTS.
+
+Developers and Investors start on a level playing field for obtaining BitShares PTS. They are being slowly mined and easily accessible from public exchanges as one of the top crypto-currencies on the market.
+
+What about that Third Pillar?
+
+The third Public Perception Pillar is confidence that owning a DAC’s PTS will translate into 
+actual ownership of an equitable share in the objective DAC. It is up to the DAC developer to convince 
+the market that this will happen using whatever social consensus the market will accept. The PTS Social Consensus is simply:
+
+> At our DAC’s pre-published launch time, a DAC’s genesis block shall be initialized
+> to precisely match the current unspent outputs of the corresponding BitShares PTS blockchain.
+
+> For every BitShares PTS proto-share you hold at that launch time, you now have a corresponding 
+> share in the DAC accessible via the same public address to which you hold a private key. 
+
+That’s it. Simple. Easy to understand. Real hard to renege.
+
+You can read about the latest, more general form here:  http://invictus-innovations.com/social-consensus/
+
+What do you mean “real hard to renege” on your social consensus? 
+
+Who would want to abandon the entire universe of informed early adopters by reneging on their rights as 
+founding shareholders? In this business, the network effect of market share is everything. Besides, if 
+someone deploys an open-source DAC without honoring the social contract to its PTS holders,
+someone else will simply fork the open source code, and honor that contract. Bingo, they’re in business! 
+The network effect of informed early adopters will do the rest and the reneging developer’s implementation 
+will go into the dustbin of history.
+
+BitShares PTS were designed to be mined into existence according to the curves below.  This has been considerably accelerated in practice by the overwhelming amount of interest from the mining community.
+
+
+
+![PTS Mine Rate](http://the-iland.net/static/images/ProtoSharesMoneySupply.png)
+
 
 
