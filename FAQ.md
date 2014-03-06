@@ -1,4 +1,3 @@
-
 Invictus
 --------
 1. **What is Invictus?**
@@ -15,6 +14,15 @@ DAC
 4. **Why Company?** This is the key factor that distinguishes DACs from earlier cryptographic enterprises like Bitcoin. Bitcoin is Decentralized and Autonomous, but since it does not generate income for its shareholders, it is not a DAC. 
 5. **How is a DAC different from a traditional company?**
 6. **What can be done with a DAC?** This is the 100-billion-dollar question! The whole project of Invictus is to find the answer. At the moment, it is theorized that music distribution, publishing, gambling, DNS, voting, and personal identity verification can all be accomplished with DACs.
+
+
+BitShares
+----------
+1. **What is BitShares?** BitShares is...
+2. 
+3. 
+
+
 
 
 BitShares PTS (Formerly known as ProtoShares)
