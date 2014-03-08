@@ -24,6 +24,15 @@ DAC
 6. **What can be done with a DAC?** This is the 100-billion-dollar question! The whole project of Invictus is to find the answer. At the moment, it is theorized that music distribution, publishing, gambling, DNS, voting, personal identity verification, and insurance can all be accomplished with DACs.
 
 
+BitShares
+----------
+1. **What is BitShares?** BitShares is...
+2. 
+3. 
+
+
+
+
 BitShares PTS (Formerly known as ProtoShares)
 -----------------------------------------------
 1. **What is BitShares PTS?** BitShares PTS is a simple minable crypto-equity (similar to Bitcoin) that was created by Invictus to allow people to "buy in" to the concept of DACs. The idea is that when a DAC is launched, at least 10% of the DAC's total shares are given proportionally to holders of PTS. Daniel Larimer once described buying PTS as "buying shares in the concept of DACs."
