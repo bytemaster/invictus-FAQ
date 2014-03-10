@@ -1,10 +1,11 @@
 Invictus
 --------
-1. **What is Invictus Innovations, Incorporated?** Invictus is a software company that develops open-source software for the flourishing world of Distributed Autonomous Corporations (DACs).
+1. **What is Invictus Innovations, Incorporated?** Invictus is a flesh and blood corporation that develops open-source software for the flourishing world of Distributed Autonomous Companies (DACs).
 2. **Does Invictus Launch DACs?** No, Invictus only writes open-source software. DAC launches are always executed by a 3rd party.
 3. **How can I get involved?** The best way is to sign up on the [forum](https://bitsharestalk.org/index.php) and get involved in the discussions there.
 4. **I have mad coding skills, who can I talk to about a job?** Invictus regularly posts bounties [on the forum](https://bitsharestalk.org/index.php?board=38.0), or you can send an email to [contact.us@invictus-innovations.com](contact.us@invictus-innovations.com).
 
+Read More: I3.md
 
 General Crypto-Equity Questions
 -------------------------------
@@ -24,12 +25,25 @@ DAC
 6. **What can be done with a DAC?** This is the 100-billion-dollar question! The whole project of Invictus is to find the answer. At the moment, it is theorized that music distribution, publishing, gambling, DNS, voting, personal identity verification, and even insurance can all be accomplished with DACs.
 7. **What is BitShares?** BitShares is the brand-name that Invictus Innovations gives to all of the DACs and other products they develop.
 
+Read more: DAC.md
+
+Future I3 DACs
+--------------
+
+1. **What future DACs are being planned?** Invictus has plans for BitShares Bingo, BitShares Voice (a voting platform), BitShares Music, and BitShares DNS, to name a few.
+2. **How can I get a stake in future DACs?** You can buy PTS or donate to AGS.
+3. **I have a great idea for a DAC. Who do I talk to?** The BitShares forum has an excellent [sounding board](https://bitsharestalk.org/index.php?board=9.0) for alternative DAC ideas. If you want to develop your DAC publicly, go to the forum and start a discussion!
+
+
+Read more: I3.md
+
 
 BitShares PTS (Formerly known as ProtoShares)
 -----------------------------------------------
 1. **What is BitShares PTS?** BitShares PTS is a simple minable crypto-equity (similar to Bitcoin) that was created by Invictus to allow people to "buy in" to future DACs. The idea is that when a DAC is launched, at least 10% of the DAC's total shares are given proportionally to holders of PTS. Daniel Larimer once described buying PTS as "buying shares in the concept of DACs."
 2. **Why isn’t it called ProtoShares anymore?** We have previously referred to BitShares PTS as "Protoshares", but no longer do so. "ProtoShare" is a registered trademark of Site9, Inc. for its prototyping and mock-up software product, ProtoShare. There is no relationship between ProtoShare and Invictus Innovations. 
 3. **What is a snapshot?** Before a new DAC is launched, the DAC developer will announce a "snapshot date" at some point prior to launch. The snapshot date is analogous to a date of record for a stock dividend; anybody who owns PTS on the snapshot date is given a proportional stake in the new DAC.
+4. **Why must I withdraw my PTS to a wallet?** As with any crypto-equty, there is risk in storing your PTS on an exchange, so it's best practice not to do this. In addition, you don't actually control the private keys when your PTS sit on an exchange, and the exchange might not go through the trouble of redeeming "your" shares.
 5. **Do I lose my PTS after a snapshot?** No, PTS are the gift that keeps on giving! Just like you don't lose your stock when a company pays a dividend, you won't lose your PTS when you get new shares in a DAC.
 6. **Why did the price of PTS fall so much right after February 28, 2014?** February 28, 2014 was the date of the official Invictus snapshot for the BitShares XT project. Thus, people who owned PTS on February 28 now have a stake reserved in BitShares XT; the PTS price drop reflects the fact that on March 1, PTS no longer contained the value of BitShares XT.
 7. **Why should I get PTS rather than AGS?** The main advantage of PTS is that it is liquid. Since it's just a simple crypto-equity, you can sell your PTS on an exchange (like Cryptsy, Poloniex, BTC38, or many others) whenever you wish.
@@ -37,6 +51,7 @@ BitShares PTS (Formerly known as ProtoShares)
 9. **What is the Social Consensus?** The Social Consensus is a concept pioneered by Invictus that states that developers of new DACs honor PTS (and AGS); i.e., that at least 10% of the total shares in any new DAC be apportioned to holders of PTS.
 10. **Why would some other DAC developer honor PTS (and AGS)?** By giving part of their new DAC to holders of PTS (and AGS), the developer immediately puts their DAC in the hands of a large dynamic motivated community that believes in the concepts of DACs.
 
+Read More: PTS.md
 
 
 BitShares AGS (Formerly known as AngelShares)
@@ -50,8 +65,10 @@ BitShares AGS (Formerly known as AngelShares)
 7. **How can I get AGS?** If you have Bitcoin or PTS that you would like to donate, go [here](http://invictus.io/bitshares-ags.php) and follow the instructions.
 8. **Should I donate Bitcoin or PTS to get my AGS?** On [this website](http://www1.agsexplorer.com/), the Bitcoin column (on the left) and PTS column (on the right) have a field called "Donation Efficiency." If the Donation Efficiency of Bitcoin is 120%, this means that at current donation rates and market prices, you're getting 20% more AGS by donating with Bitcoin than you would by donating the same value of PTS.
 
+Read More: AGS.md
 
-BitShares XT: The First Decentralized Bank and Exchange
+
+XT: The First Decentralized Bank and Exchange
 -----------------------------------------------
 1. **What is BitShares XT?** BitShares XT is the first DAC being developed by Invictus. It operates something like a cross between a traditional bank and a securities exchange. 
 2. **What is XTS?** XTS is the name of the base token of BitShares XT. That is, XTS is what PTS and AGS holders will receive, and XTS is the unit that will be traded on the centralized cryptocurrency exchanges (Cryptsy, Poloniex, BTC38, etc.).
@@ -66,6 +83,7 @@ BitShares XT: The First Decentralized Bank and Exchange
 11. **Which BitAssets will be available in BitShares XT?** The list has not yet been finalized, but at the very least, there will be three: BitUSD, BitBTC (to track Bitcoin), and BitGLD (to track the price of gold).
 12. **I still don't understand BitShares XT. Where can I find more information?** You should read the most recent version of the [BitShares XT whitepaper](https://docs.google.com/document/d/1RLcjSXWuU9vBJzzqLEXVACSCdn8zXKTTJRN_LfoCjNY/edit?disco=AAAAAH7fcks). If you still have questions, [the forum](http://bitsharestalk.org) has many threads with excellent discussions, or you can simply ask a question there.
 
+
 Redeeming PTS and AGS for XTS (BitShares XT)
 ----------------------------------------------
 1. **What happened on February 28, 2014?** This was the snapshot date for BitShares XT. PTS and AGS holders on this date will be given a stake in BitShares XT: for each PTS or AGS held, the holder will be awarded 1.33 XTS.
@@ -74,20 +92,6 @@ Redeeming PTS and AGS for XTS (BitShares XT)
 4. **Will XTS be minable?** No, the BitShares XT network will be secured by a novel Proof-of-Stake method that requires no mining.
 4. **How can I get a stake in future BitShares X Products?** Future BitShares X DACs will use snapshots of XT for their initial allocations, just like BitShares XT used a PTS/AGS snapshot for its initial allocation.
 5. **When will BitShares XT launch?** At the earliest, BitShares XT will launch on the Ides of March (March 15, 2014).
-
-
-Future DAC Plans
------------------------------------------------
-1. **What future DACs are being planned?** Invictus has plans for BitShares Bingo, BitShares Voice (a voting platform), BitShares Music, and BitShares DNS, to name a few.
-2. **How can I get a stake in future DACs?** You can buy PTS or donate to AGS.
-3. **I have a great idea for a DAC. Who do I talk to?** The BitShares forum has an excellent [sounding board](https://bitsharestalk.org/index.php?board=9.0) for alternative DAC ideas. If you want to develop your DAC publicly, go to the forum and start a discussion!
-
-
-
-
-
-
-
 
 
 
