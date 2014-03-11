@@ -1,4 +1,4 @@
-Each day a total of 10 000 BitsharesAGS will be given out to the supporters who donated that day. 5000 BitsharesAGS will be divided among persons who donated bitcoin to the bitcoin angel address. And 5000 will be divided among persons who donated BitsharesPTS to the BitsharesPTS angel address.
+Each day a total of 10 000 BitsharesAGS will be given out to the supporters who donated that day. 5000 BitsharesAGS will be divided proportionally among persons who donated bitcoin to the bitcoin angel address, and 5000 will be divided proportionally among persons who donated BitsharesPTS to the BitsharesPTS angel address.
 
 Each day the BitsharesAGS will be divided among the donating addresses according to the amounts each address donated.
 
