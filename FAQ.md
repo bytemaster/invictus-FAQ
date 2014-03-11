@@ -62,7 +62,7 @@ BitShares AGS (Formerly known as AngelShares)
 5. **Why should I buy AGS rather than PTS?** The main advantage of AGS is that its market price reflects the fact that it is not liquid. That is, you typically get more "bang for your buck" with AGS than you do with PTS because you can't simply sell your AGS whenever you want.
 6. **What happens to my Bitcoin or PTS when I donate?** All donated funds are placed in a public account that is used solely to advance the development of DACs.
 7. **How can I get AGS?** If you have Bitcoin or PTS that you would like to donate, go [here](http://invictus.io/bitshares-ags.php) and follow the instructions.
-8. **Should I donate Bitcoin or PTS to get my AGS?** On [this website](http://www1.agsexplorer.com/), the Bitcoin column (on the left) and PTS column (on the right) have a field called "Donation Efficiency." If the Donation Efficiency of Bitcoin is 120%, this means that at current donation rates and market prices, you're getting 20% more AGS by donating with Bitcoin than you would by donating the same value of PTS.
+8. **Is it better to donate Bitcoin, or to donate PTS?** On [this website](http://www1.agsexplorer.com/), the Bitcoin column (on the left) and PTS column (on the right) have a field called "Donation Efficiency." If the Donation Efficiency of Bitcoin is 120%, this means that at current donation rates and market prices, you're getting 20% more AGS by donating with Bitcoin than you would by donating the same value of PTS.
 
 Read More: AGS.md
 
