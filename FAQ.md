@@ -1,11 +1,23 @@
 BitShares
 --------
-1. **What is BitShares?** BitShares is a family of Distributed Autonomous Corporations that are derived from PTS and AGS.
-2. **How can I get involved?** The best way is to sign up on the [forum](https://bitsharestalk.org/index.php) and get involved in the discussions there.
-3. **I have mad coding skills, who can I talk to about a job?** Bounties for small marketing and development tasks are regularly posted [on the forum](https://bitsharestalk.org/index.php?board=38.0), or you can send an email to [contact.us@invictus-innovations.com](contact.us@invictus-innovations.com).
-4. **How is BitShares different from Bitcoin?** Bitcoin is a single crypto-equity that serves only one purpose: to process and secure monetary transactions. Owners of Bitcoins earn no income. BitShares is a family of crypto-equities that all adhere to the DAC concept, explained below. In particular, shareholders in a BitShares DAC earn income from the DAC's activities.
+1. **What is BitShares?** BitShares is a brand of Distributed Autonomous Company, (DAC).  A DAC is a free market company whose shares can be transferred from person to person over the internet without any third party brokers. A DAC is not a legal entity or person like traditional companies, but exists entirely as a decentralized transaction ledger maintained by a network of individual computers owned by regular people all over the world.  
+2. **How is BitShares different from Bitcoin?** Bitcoin is a single DAC which brands its shares as 'coins' and markets them for use as a decentralized currency.  The difference between BitShares and Bitcoin is that BitShares DACs are designed around profitable business models so their shares pay dividends, whereas, bitcoins are continoously debased to fund operations.
+3. **Is BitShares a crypto-currency?** A crypto-currency is a term coined to differenciate Bitcoin from other digital currencies such as Linden Dollars or egold.  The defintion of crypto-currency as a digital medium of exchange is broad enough to cover BitShares; however, within the BitShares ecosystem we prefer to refer to systems such as Bitcoin and BitShares as a crypto-equity.  
+4. **What is a crypto-equity?** A crypto-equity is a better description of Bitcoin and BitShares systems than the traditional langauge of crypto-currency because these new digital assets behave more like stocks than currencies.  You could use shares in company such as Apple (AAPL) as a currency, but it is not ideal.
+5. **What are dividends?** A DAC earns income from transaction fees it charges to update the global ledger.  These transaction fees paid to shareholders as stock buybacks which increase the equity-per-share.
+6. **How can I get involved?** The best way is to sign up on the [forum](https://bitsharestalk.org/index.php) and get involved in the discussions there.
+7. **I have mad coding skills, who can I talk to about a job?** Bounties for small marketing and development tasks are regularly posted [on the forum](https://bitsharestalk.org/index.php?board=38.0), or you can send an email to [contact.us@invictus-innovations.com](contact.us@invictus-innovations.com).
 
-Read More: I3.md
+
+DAC
+---
+1. **What is a DAC?** DAC stands for Distributed Autonomous Company. It is a software entity that, like a traditional company, earns money for its shareholders. Unlike a traditional company, it operates autonomously on a blockchain; it requires no board of directors or CEO to accomplish its goals.
+2. **Why "Decentralized?"** Decentralization is necessary to ensure that no malicious individual or group can disrupt the intended operations of the DAC.  Decentralized implies that there are no central points of failure which makes a DAC robust and also free of corruption.
+3. **Why "Autonomous?"** Autonomy is necessary to ensure that despite having no board of directors, the DAC continues to provide its services to the market without depending upon any single individual. Bitcoin is autonomous in this way: the Bitcoin Foundation could disappear tomorrow, but Bitcoin software would go on validating transactions as if nothing had changed.
+4. **Why "Company?"** A DAC earns money for its shareholders. This is the key factor that sets DACs apart from 1st-generation crypto-equities like Bitcoin. Bitcoin is Decentralized and Autonomous, but since it does not generate income for its shareholders, it is not a DAC. 
+5. **How is a DAC different from a traditional company?** A traditional company is run by people; if you employ the company's services you must trust that the people who run the company will do what they say. A DAC requires no trust in people.
+6. **What can be done with a DAC?** This is the 100-billion-dollar question! The whole project of BitShares is to find the answer. At the moment, it is theorized that music distribution, publishing, gambling, DNS, voting, personal identity verification, and even insurance can all be accomplished with DACs.
+
 
 General Crypto-Equity Questions
 -------------------------------
@@ -14,15 +26,6 @@ General Crypto-Equity Questions
 3. **Are Crypto-Equities secure?** Yes, extremely. For example, if a thief knew your bitcoin public address, it would take them billions of years with a supercomputer to compute your private key (that is, steal the bitcoins you held in that address).
 4. **But I heard that the Bitcoin exchange MtGox was hacked. Isn't that a bad sign?** Attackers exploited a security flaw at MtGox and stole thousands of bitcoins - but the Bitcoin protocol itself was never compromised. This is analogous to someone robbing an armored truck and running off with unmarked bills; compromising a single truck does not compromise the very concept of money.
 
-
-DAC
----
-1. **What is a DAC?** DAC stands for Distributed Autonomous Company. It is a software entity that, like a traditional company, earns money for its shareholders. Unlike a traditional company, it operates autonomously on a blockchain; it requires no board of directors or CEO to accomplish its goals.
-2. **Why "Decentralized?"** Decentralization is necessary to ensure that no malicious individual or group can control the DAC. Since the DAC operates simultaneously on thousands of computers across the world, an attacker would have to gain control of all the computers to gain control of the DAC.
-3. **Why "Autonomous?"** Autonomy is necessary to ensure that despite having no board of directors, the DAC functions properly on its own. Bitcoin is autonomous in this way: the Bitcoin Foundation could disappear tomorrow, but Bitcoin software would go on validating transactions as if nothing had changed.
-4. **Why "Company?"** A DAC earns money for its shareholders. This is the key factor that sets DACs apart from 1st-generation crypto-equities like Bitcoin. Bitcoin is Decentralized and Autonomous, but since it does not generate income for its shareholders, it is not a DAC. 
-5. **How is a DAC different from a traditional company?** A traditional company is run by people; if you employ the company's services you must trust that the people who run the company will do what they say. A DAC requires no trust in people.
-6. **What can be done with a DAC?** This is the 100-billion-dollar question! The whole project of BitShares is to find the answer. At the moment, it is theorized that music distribution, publishing, gambling, DNS, voting, personal identity verification, and even insurance can all be accomplished with DACs.
 
 Read more: DAC.md
 
